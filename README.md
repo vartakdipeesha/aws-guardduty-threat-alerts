@@ -24,6 +24,21 @@ This project uses AWS GuardDuty to detect suspicious activities in an AWS accoun
 
 🔐 IAM roles & permissions
 
+## Architecture
+
+<img width="778" alt="Screenshot 2025-06-05 at 11 15 39 PM" src="https://github.com/user-attachments/assets/1394627d-1291-49a7-bb8e-643785f0a514" />
+
+
+-> GuardDuty detects suspicious activity (e.g., IAM misuse, or IPs).
+
+-> EventBridge filters events and routes them based on matching rules.
+
+-> SNS sends immediate alerts via email.
+
+-> Security Hub aggregates findings for centralized visibility.
+
+-> Lambda triggers automated responses — like revoking IAM credentials.
+
 
 # Setup & Workflow with Screenshots
 
