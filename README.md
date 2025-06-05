@@ -169,8 +169,10 @@ Permissions: events:PutRule, events:PutTargets
 
 
 ## Receiving Alert Emails
+
    
-<img width="1440" alt="Screenshot 2025-06-05 at 7 13 03 PM" src="https://github.com/user-attachments/assets/e14d303b-3fd0-4855-9cb3-7e738d4b22a7" />
+<img width="1188" alt="Screenshot 2025-06-05 at 10 12 22 PM" src="https://github.com/user-attachments/assets/fce2ae7c-18c2-4dae-ab9f-be9fbeffa1a3" />
+
 
 - When GuardDuty detects threats (including simulated ones), SNS sends alert emails to subscribed addresses.
 
