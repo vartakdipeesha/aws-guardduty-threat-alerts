@@ -107,7 +107,8 @@ Simulates threat findings to test alerting workflows without needing real attack
 Permissions: guardduty:CreateSampleFindings
 
 
-<img width="1423" alt="Screenshot 2025-06-05 at 6 14 53 PM" src="https://github.com/user-attachments/assets/7b56e8df-3f0d-417e-9de9-b70a3330f890" />
+<img width="1115" alt="Screenshot 2025-06-05 at 10 16 47 PM" src="https://github.com/user-attachments/assets/c119bd0b-f9eb-46a9-9259-639fb9ed9e5b" />
+
 
 
 ## Assigning GuardDuty Permissions
