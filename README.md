@@ -20,8 +20,6 @@ This project uses AWS GuardDuty to detect suspicious activities in an AWS accoun
 
 ⚙️ AWS EventBridge
 
-💻 AWS CLI
-
 🔐 IAM roles & permissions
 
 ## Architecture
