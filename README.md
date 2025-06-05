@@ -146,7 +146,8 @@ Screenshots:
 — Creating subscription to topic
 
 
-3) <img width="1440" alt="Screenshot 2025-06-05 at 7 17 29 PM" src="https://github.com/user-attachments/assets/d45aeb72-8140-4068-9c1c-3e692e008ff2" />
+3) <img width="1401" alt="Screenshot 2025-06-05 at 9 16 35 PM" src="https://github.com/user-attachments/assets/5d75d7fd-f886-4b7d-9acb-a81a834d570f" />
+
 
 
 — Subscription success confirmation
@@ -159,8 +160,6 @@ Screenshots:
 
 
 ## Creating EventBridge Rule to Route Findings to SNS
-
-<img width="1440" alt="Screenshot 2025-06-05 at 7 17 29 PM" src="https://github.com/user-attachments/assets/d45aeb72-8140-4068-9c1c-3e692e008ff2" />
 
 
 - EventBridge rule configured to capture GuardDuty findings and forward them to SNS for alerting.
