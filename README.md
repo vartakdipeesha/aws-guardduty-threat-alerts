@@ -186,6 +186,4 @@ From setting up GuardDuty detectors to receiving live email alerts for suspiciou
 
 
 
-# Contact
 
-For any questions or suggestions, please reach out at vartakdipeesha@gmail.com
